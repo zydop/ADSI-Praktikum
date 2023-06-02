@@ -1,0 +1,318 @@
+.image-3-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+.halaman-kelola-informasi-child {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1440px;
+  height: 170px;
+}
+.halaman-kelola-informasi-item {
+  position: absolute;
+  top: 29px;
+  left: 1262px;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
+.beranda1 {
+  position: absolute;
+  top: 66px;
+  left: 252px;
+}
+.informasi-museum1,
+.kelola-museum1 {
+  position: absolute;
+  top: 66px;
+  left: 918px;
+}
+.informasi-museum1 {
+  left: 398px;
+}
+.logo-item,
+.pembelian-tiket1 {
+  position: absolute;
+  top: 66px;
+  left: 676px;
+}
+.logo-item {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gold);
+  width: 160px;
+  height: 151px;
+}
+.kemuseum-low-resolution-logo-c-icon1 {
+  position: absolute;
+  top: 16px;
+  left: 21px;
+  width: 119px;
+  height: 120px;
+  object-fit: cover;
+}
+.logo1 {
+  position: absolute;
+  top: 13px;
+  left: 27px;
+  width: 160px;
+  height: 151px;
+}
+.halaman-kelola-informasi-inner {
+  position: absolute;
+  top: 99px;
+  left: 914px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gold);
+  width: 215px;
+  height: 10px;
+}
+.halaman-kelola-informasi-child1,
+.rectangle-div {
+  position: absolute;
+  top: 277px;
+  left: 95px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 550px;
+  height: 683px;
+  opacity: 0.85;
+}
+.halaman-kelola-informasi-child1 {
+  top: 342px;
+  left: 138px;
+  width: 153px;
+  height: 148px;
+}
+.info-1-child,
+.list-informasi {
+  position: absolute;
+  top: 0;
+  left: 30px;
+}
+.info-1-child {
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 625px;
+  height: 99px;
+  opacity: 0.85;
+}
+.event-talkshow-with,
+.info-1 {
+  position: absolute;
+  top: 31px;
+  left: 117px;
+}
+.info-1 {
+  top: 59px;
+  left: 0;
+  width: 625px;
+  height: 99px;
+}
+.info-2,
+.kemuseum {
+  position: absolute;
+  top: 31px;
+  left: 240px;
+}
+.info-2 {
+  top: 179px;
+  left: 0;
+  width: 625px;
+  height: 99px;
+}
+.event-talkshow-with1,
+.info-3 {
+  position: absolute;
+  top: 31px;
+  left: 98px;
+}
+.info-3 {
+  top: 299px;
+  left: 0;
+  width: 625px;
+  height: 99px;
+}
+.event-talkshow-with2 {
+  position: absolute;
+  top: 31px;
+  left: 87px;
+}
+.info-4,
+.list-info {
+  position: absolute;
+  top: 419px;
+  left: 0;
+  width: 625px;
+  height: 99px;
+}
+.list-info {
+  top: 389px;
+  left: 720px;
+  height: 518px;
+  color: var(--color-white);
+}
+.simpan-child {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gold);
+  width: 222px;
+  height: 63px;
+  opacity: 0.8;
+}
+.simpan {
+  top: 875px;
+  left: 370px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 63px;
+  font-size: var(--font-size-5xl);
+}
+.hapus,
+.simpan,
+.simpan2 {
+  position: absolute;
+  width: 238px;
+}
+.hapus {
+  top: 15px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  height: 33px;
+}
+.simpan2 {
+  top: 875px;
+  left: 132px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 63px;
+  font-size: var(--font-size-5xl);
+}
+.nama-child {
+  position: absolute;
+  top: 39px;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-gold);
+  box-sizing: border-box;
+  width: 276px;
+  height: 65px;
+}
+.masukkan-judul {
+  top: 54px;
+  left: 25px;
+  font-weight: 500;
+}
+.judul,
+.masukkan-judul,
+.nama {
+  position: absolute;
+}
+.judul {
+  top: 0;
+  left: 25px;
+  font-size: var(--font-size-7xl);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.nama {
+  top: 364px;
+  left: 308px;
+  width: 276px;
+  height: 104px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray);
+}
+.nama-item {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-gold);
+  box-sizing: border-box;
+  width: 464px;
+  height: 299px;
+}
+.informasi,
+.masukkan-informasi {
+  position: absolute;
+  top: 61px;
+  left: 29px;
+  font-weight: 500;
+}
+.informasi {
+  top: 0;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+}
+.nama1 {
+  position: absolute;
+  top: 512px;
+  left: 138px;
+  width: 464px;
+  height: 341px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray);
+}
+.kelola-informasi {
+  position: absolute;
+  top: 0;
+  left: 14px;
+}
+.judul-kelola-museum-child {
+  position: absolute;
+  top: 83px;
+  left: 0;
+  border-radius: 200px;
+  background-color: var(--color-white);
+  width: 492px;
+  height: 8px;
+}
+.judul-kelola-museum {
+  position: absolute;
+  top: 259px;
+  left: 774px;
+  width: 492px;
+  height: 91px;
+  font-size: 55px;
+  color: var(--color-white);
+}
+.vector-icon {
+  position: absolute;
+  height: 6.35%;
+  width: 4.51%;
+  top: 37.45%;
+  right: 82.81%;
+  bottom: 56.2%;
+  left: 12.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.halaman-kelola-informasi {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
